@@ -56,7 +56,7 @@ buttonPrev.addEventListener(`click`, () => {
     search_pkm -= 1;
     renderpkmon (search_pkm);
     }else{
-        alert("você já está no primeiro pokémon")
+        alert("você já está no primeiro pokémon");
     }
 });
 
@@ -65,7 +65,7 @@ buttonNext.addEventListener(`click`, () => {
     search_pkm += 1;
     renderpkmon(search_pkm);
     }else {
-        alert("você já está no último pokémon")
+        alert("você já está no último pokémon");
     }
 
 });
