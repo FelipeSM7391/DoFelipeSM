@@ -89,7 +89,7 @@ main{
   width: 65%;
   transform: translate(-57%, 0);
   display: flex;
-  gap:35px;
+  gap:35px; 
 }
 button {
   width: 50%;
